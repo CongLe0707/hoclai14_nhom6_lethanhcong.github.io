@@ -1,5 +1,5 @@
 # hoclai14_nhom6_lethanhcong.github.io
-![Ảnh cá nhân](https://github.com/CongLe0707/hoclai14_nhom6_lethanhcong.github.io/blob/main/461726250_1742601986483301_5649883732697049446_n.jpg)
+![Ảnh cá nhân](https://github.com/CongLe0707/hoclai14_nhom6_lethanhcong.github.io/blob/main/461726250_1742601986483301_5649883732697049446_n.jpg/150)
 
 ## Thông tin cá nhân
 - **Họ và tên**: [Lê Thành Công]
@@ -41,11 +41,11 @@
 ## Dự án
 ### [Web bán sách]
 - Mô tả dự án ngắn gọn.
-- Công nghệ sử dụng: [Java], [Công nghệ 2]
+- Công nghệ sử dụng: [Java], [Spring boot]
 
-### [Tên dự án 2]
+### [Web bán sách]
 - Mô tả dự án ngắn gọn.
-- Công nghệ sử dụng: [Công nghệ 1], [Công nghệ 2]
+- Công nghệ sử dụng: [C#], [.NET]
 
 ## Chứng chỉ
 - [Chứng chỉ 1]
