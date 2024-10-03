@@ -34,7 +34,7 @@
 
 ## Học vấn
 ### [Trường Đại Công Nghệ TP.HCM ]
-*Thời gian học: Từ năm 2021 đến năm 2025*
+*Thời gian học: 2021-2025*
 - Ngành học: [Công nghệ thông tin]
 - Điểm trung bình: [3.0]
 
